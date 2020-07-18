@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-** Weekly development breakdown 
+**Weekly development breakdown 
 <!--START_SECTION:waka-->
 ```text
 Week: 10 July, 2020 - 17 July, 2020
