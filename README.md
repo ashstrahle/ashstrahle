@@ -23,4 +23,4 @@ Week: 10 July, 2020 - 17 July, 2020
 ```
 <!--END_SECTION:waka-->
 
-![Coding Activity](https://wakatime.com/share/@ecf7160e-9f4a-4708-8df3-68e6265f41f8/87ba736e-0d2c-43d3-871d-575c1697c51b.png)
+![Coding Activity](https://wakatime.com/share/@ecf7160e-9f4a-4708-8df3-68e6265f41f8/437b0b64-774b-49d5-9688-5d8b44486726.svg)
