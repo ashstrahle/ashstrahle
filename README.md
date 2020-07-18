@@ -12,6 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Ashley Strahle's github stats](https://github-readme-stats.vercel.app/api?username=ashstrahle)](https://github.com/ashstrahle/github-readme-stats)
+
 ## Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
