@@ -14,15 +14,5 @@ Here are some ideas to get you started:
 -->
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ashstrahle)
 
-## Weekly development breakdown
-<!--START_SECTION:waka-->
-```text
-Week: 10 July, 2020 - 17 July, 2020
-
-Markdown    40 mins             ███████████████░░░░░░░░░░   62.43 % 
-YAML        24 mins             █████████░░░░░░░░░░░░░░░░   37.57 %
-```
-<!--END_SECTION:waka-->
-
-<!--![Coding Activity](https://wakatime.com/share/@ecf7160e-9f4a-4708-8df3-68e6265f41f8/f08f83f5-5c6b-4fb0-bdc5-2cc69121150e.svg) -->
 <img src="https://wakatime.com/share/@ecf7160e-9f4a-4708-8df3-68e6265f41f8/f08f83f5-5c6b-4fb0-bdc5-2cc69121150e.svg" width="50%" height="50%">
+<img src="https://wakatime.com/share/@ecf7160e-9f4a-4708-8df3-68e6265f41f8/e887363d-d1db-427f-a1ec-1642c8db7b9a.svg" width="50%" height="50%">
