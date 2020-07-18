@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 ```text
 Week: 10 July, 2020 - 17 July, 2020
 
-
+Markdown    40 mins             ███████████████░░░░░░░░░░   62.43 % 
+YAML        24 mins             █████████░░░░░░░░░░░░░░░░   37.57 %
 ```
 <!--END_SECTION:waka-->
 
