@@ -13,4 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--START_SECTION:waka-->
+```text
+Week: 10 July, 2020 - 17 July, 2020
+
+
+```
 <!--END_SECTION:waka-->
