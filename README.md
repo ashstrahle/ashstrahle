@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 -->
 <!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=ashstrahle) -->
 <p float="left">
-    <!-- img src="https://wakatime.com/share/@ecf7160e-9f4a-4708-8df3-68e6265f41f8/6f3911ee-2396-4bdc-919c-b5d681ea864f.svg" width="49%" height="49%">
+    <!-- img src="https://wakatime.com/share/@ecf7160e-9f4a-4708-8df3-68e6265f41f8/6f3911ee-2396-4bdc-919c-b5d681ea864f.svg" width="49%" height="49%"-->
     <img src="https://wakatime.com/share/@ecf7160e-9f4a-4708-8df3-68e6265f41f8/25c1afa6-91e3-433d-9054-c3c32fc62113.svg" width="49%" height="49%">
 </p>
