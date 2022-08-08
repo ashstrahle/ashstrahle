@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 <!--<p float="left">
     <img src="https://wakatime.com/share/@ecf7160e-9f4a-4708-8df3-68e6265f41f8/25c1afa6-91e3-433d-9054-c3c32fc62113.svg" width="49%" height="49%">
 </p>-->
-<p><img src="Images/csBackground.png" >
+<p><img src="Images/csBackground2.png" >
